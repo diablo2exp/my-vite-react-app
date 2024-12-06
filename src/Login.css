@@ -1,0 +1,33 @@
+.login-app-container {
+    font-family: Arial, sans-serif;
+  }
+  
+  .login-content {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+  }
+
+  .login-content div {
+    margin: 10px;
+    padding: 1px;
+  }
+
+  .login-notice-card {
+    text-indent: 10px;
+    width: 40%;
+    background-color: #fff;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+    -webkit-border-radius: 9px;
+    -moz-border-radius: 9px;
+    border-radius: 9px;
+  }
+
+  .login-font-size4 { 
+    font-size: 40px;
+  }
+  .login-font-size2 {
+    font-size: 20px;
+  }
